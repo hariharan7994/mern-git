@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta:wght@100&display=swap');
+#h1{
+    text-align: center;
+    margin-left: -98px;
+    margin-top: 1px;
+}
+h2{
+    text-align: center;
+    margin-top: -19px;
+    margin-left: -122px;
+}
+div{
+    height: 375px;
+    width: 18%;
+    background-color: black;
+    color: white;
+    border: white 3px solid;
+float: left;
+padding: 10px;
+}
+#d1{
+    height: 375px;
+    width: 18%;
+    color: white;
+    background-color: black;
+    border: white 3px solid;
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: 286px;
+}
+#d2{
+    height: 375px;
+    width: 18%;
+    color: white;
+    background-color: black;
+    border: white 3px solid;
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: 0px;
+}
+#d3{
+    height: 375px;
+    width: 18%;
+    color: white;
+    background-color: black;
+    border: white 3px solid;
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: 0px;
+}
+#d4{
+    height: 375px;
+    width: 18%;
+    color: white;
+    background-color: black;
+    border: white 3px solid;
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: 289px;
+}
+img{
+    height: 167px;
+    width: 100%;
+
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size:small;
+    font-family: 'Lexend Peta', sans-serif;
+}
